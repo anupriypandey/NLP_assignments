@@ -1,2 +1,3 @@
 # NLP_assignments
-# this repository consits of jupyter notebooks for the NLP assignments
+This repository contains class assignment (jupyter notebooks) for NLP
+Scholar no : 17U02047
